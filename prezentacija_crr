@@ -1,0 +1,532 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Manim Slides</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.2.0/reveal.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.2.0/theme/black.min.css">
+
+    <!-- Theme used for syntax highlighting of code -->
+    <!-- <link rel="stylesheet" href="lib/css/zenburn.css"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/styles/zenburn.min.css">
+    <!-- <link rel="stylesheet" href="index.css"> -->
+  </head>
+
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\b57015bb80b4dae1f04e83f3c4c441e7242de7b727868880fe67640f566b2f47.mp4"
+          data-background-video-muted
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\91db57ed7b7617818a601bcfc97bedaf841b322c7cd033154de6d8ceafefa531.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\e539603dd045745a91c12d76902e52ee1265af438e0e512d47fe62f60e91bad6.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\8ccb252dba558439d7e105e9f2d0d01d48c59747922c7282791516adcf69fbd6.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\f93baddf10553481b8cee6933cb86c5aea17ae187a5d3fca3c32f6cb4197c81d.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\0d58be1f5ae7b3349354660aaad384f52408a38d3d5f797958926e76339d3d78.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\d93a4b9a61eecf010479ff980810c8cc231b6c0dfca2b50db8d54de2c17cc251.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\38eb17a047172e67fe5634e8a9cf0e7a1f2f2fc68d15480400e9c56fb9623600.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\c2f49a4b7eec2d8b25798b077cf80f5bfef6109b514aaa3b16810b6e5316a045.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\f215d8a8e5c71cd57e3d3990a9c265acead2c8c5028e6186202b19abafa374ae.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\f8639882248ad369ee31e9ea9371f82db2bde33f019cdb8a887c93dcdd252ffc.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\a73363e97a2a396661946179734302add14ddfb65fce0d2320f0d5509228b5b6.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\4a2ae6536faa62771fca875175915e3e58087c1e47d6696564659d9700e3e32d.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\dca739e571240c7d01b2ae299a155167afd68d8e4859d89ac067bb8d5ca4b310.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\8cf8e8944dd39c9dd9485e0e3ee1c0c96cf121bf55ab921b4d6072a039ef53cd.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\4a94e8259bcaacc1b9e6925ed378992f2f04c84adc5ccc1c14b1141356e948d3.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\4b06a084b3fc8cc62a28135a559133d687834f543758da1e621d3daba49c5365.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\9f7d166cc812b5361d0dbe068472ebb156823beacf20971ae8e3d14318c15010.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\71e0451706465637431940d3b379553d5e7c255d85a864ae1fa840e6dbf6f482.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\72e360e23ce1fc411003731d19db3932efcdc4dec328a8ed62eedb67e5db6c5c.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\b62b2f24f848d78fff4f90dd2baf1e23dece7a783d3e5da49260758c655da341.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\e7f627aa120c85b06b835b9d07928b2a2181a0c0675a95d199336a8f61651b8c.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\fe8a3e91585c959af5f6f2443b1999ebcb43b75e89c7e6680099708ddc74bb94.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\95867dbccf6683066c2219941a05c0d599d03201e08645c9b749dec5aa6a9db2.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\60c6debbff3d4f6571c0cedec53fc756c66e88d7231a240de8752e54de2c2251.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\efa0df83bb3d8999ac51904e1e4716fe330d559c2ccc79552f6fe15b2d2ef7fd.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\db5c30762744ac0c8ed28183e7bea0cb915de5994ca479cd8ff09b77ab11620b.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\b8be475e264fbb6d5d5486250b52a9d136fdf428f532608e1a3d7b81c12360cd.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\089b62605908dd23ef8667fa59ddf9ab7bb85b39b410fb258b7bb7af93e185f3.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\d79af2882f476bae3c7b0c13af375ea2b6486341ba6fddb39744a5869be62bed.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\afa6350797c71aaad3df40ef6d80c251d7b9e0ef3d6007b17b461897dd199c8d.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\6522e5ebdc585629f272d89ee6ce695defa285857a79cfd2c6c85e8eb24ccf20.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\f5842fb3e1ff1eb6a683bd639845077ed5b801405a3cdb63d231098eca8237c5.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\22b2573b7aabbb070514809b68ee9afad363a782f2796de79c65bd8e1a58eaea.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\8aa607209fd5934672c7fdcd9b3f94ab1f9348b0c58250ca42b03b97c01a0ff0.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\800d7941146c0ab58f6369e0b622632905d5abf08450298fcfa60f54a653672e.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\54a52363561f9ea7d24ae24bfa10fb018c9a7743401666f43395fd5192c9045a.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\24686831d9499dc8328c84615d33de8336b6f9bd086aad854bdb71695eec84d6.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\e4edc6e81febe3b9b146709cf34c128a6f2508fc4976bbf510994ade441098a6.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\a2274fe2bbd3704e797cc9d261e508eb832057fc167ac4e9ad0a39bd83a0f190.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\72db097c46b4d500b8b5a2fb7d11f24575e639406aeb2f6d3c0b898f1bc59b72.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\891b8572f584a6234729fa67ea0159dbfe920ed5f90d96a407aedffb1a56d19d.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\2835f8207418435ee0347ffbb27101f8b8b25739360b17541183848bf6d8add5.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\ec06961cce9e2fc3323480c429b587f51928b2dcf41169fe94df6a55a6d3b9ae.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\d7ff03f11adb3960c7da32477d28d80ee045d67191006c5724fad45141dc294a.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\5e485dc647a078014d00eed64f1b79e69d2ac3fa65b1e60d63bda706e34ffe4d.mp4"
+          >
+        </section>
+        <section
+          data-background-size='contain'
+          data-background-color="black"
+          data-background-video="prezentacija_crr_assets\55680dcb03c435896cbe9474ae2d7078c63fabd037aa57c3a5f76371a7d4b110.mp4"
+          >
+        </section>
+      </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.2.0/reveal.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.2.0/plugin/notes/notes.min.js"></script>
+
+    <!-- To include plugins, see: https://revealjs.com/plugins/ -->
+
+    <!-- <script src="index.js"></script> -->
+    <script>
+      Reveal.initialize({
+        // The "normal" size of the presentation, aspect ratio will
+        // be preserved when the presentation is scaled to fit different
+        // resolutions. Can be specified using percentage units.
+        width: '100%',
+        height: '100%',
+        // Factor of the display size that should remain empty around
+        // the content
+        margin: 0.04,
+        // Bounds for smallest/largest possible scale to apply to content
+        minScale: 0.2,
+        maxScale: 2.0,
+        // Display presentation control arrows
+        controls: false,
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+        // Display a presentation progress bar
+        progress: false,
+        // Display the page number of the current slide
+        // - true:    Show slide number
+        // - false:   Hide slide number
+        //
+        // Can optionally be set as a string that specifies the number formatting:
+        // - "h.v":   Horizontal . vertical slide number (default)
+        // - "h/v":   Horizontal / vertical slide number
+        // - "c":   Flattened slide number
+        // - "c/t":   Flattened slide number / total slides
+        //
+        // Alternatively, you can provide a function that returns the slide
+        // number for the current slide. The function should take in a slide
+        // object and return an array with one string [slideNumber] or
+        // three strings [n1,delimiter,n2]. See #formatSlideNumber().
+        slideNumber: false,
+        // Can be used to limit the contexts in which the slide number appears
+        // - "all":      Always show the slide number
+        // - "print":    Only when printing to PDF
+        // - "speaker":  Only in the speaker view
+        showSlideNumber: 'all',
+        // Use 1 based indexing for # links to match slide number (default is zero
+        // based)
+        hashOneBasedIndex: false,
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: false,
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: false,
+        // Enable support for jump-to-slide navigation shortcuts
+        jumpToSlide: true,
+        // Push each slide change to the browser history.  Implies `hash: true`
+        history: false,
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+        // Optional function that blocks keyboard events when retuning false
+        //
+        // If you set this to 'focused', we will only capture keyboard events
+        // for embedded decks when they are in focus
+        keyboardCondition: null,
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+        // Enable the slide overview mode
+        overview: true,
+        // Vertical centering of slides
+        center: true,
+        // Enables touch navigation on devices with touch input
+        touch: true,
+        // Loop the presentation
+        loop: false,
+        // Change the presentation direction to be RTL
+        rtl: false,
+        // Changes the behavior of our navigation directions.
+        //
+        // "default"
+        // Left/right arrow keys step between horizontal slides, up/down
+        // arrow keys step between vertical slides. Space key steps through
+        // all slides (both horizontal and vertical).
+        //
+        // "linear"
+        // Removes the up/down arrows. Left/right arrows step through all
+        // slides (both horizontal and vertical).
+        //
+        // "grid"
+        // When this is enabled, stepping left/right from a vertical stack
+        // to an adjacent vertical stack will land you at the same vertical
+        // index.
+        //
+        // Consider a deck with six slides ordered in two vertical stacks:
+        // 1.1    2.1
+        // 1.2    2.2
+        // 1.3    2.3
+        //
+        // If you're on slide 1.3 and navigate right, you will normally move
+        // from 1.3 -> 2.1. If "grid" is used, the same navigation takes you
+        // from 1.3 -> 2.3.
+        navigationMode: 'default',
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+        // Turns fragments on and off globally
+        fragments: true,
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+        // Flags if we should show a help overlay when the question-mark
+        // key is pressed
+        help: true,
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+        // Global override for autolaying embedded media (video/audio/iframe)
+        // - null:   Media will only autoplay if data-autoplay is present
+        // - true:   All media will autoplay, regardless of individual setting
+        // - false:  No media will autoplay, regardless of individual setting
+        autoPlayMedia: null,
+        // Global override for preloading lazy-loaded iframes
+        // - null:   Iframes with data-src AND data-preload will be loaded when within
+        //           the viewDistance, iframes with only data-src will be loaded when visible
+        // - true:   All iframes with data-src will be loaded when within the viewDistance
+        // - false:  All iframes with data-src will be loaded only when visible
+        preloadIframes: null,
+        // Can be used to globally disable auto-animation
+        autoAnimate: true,
+        // Optionally provide a custom element matcher that will be
+        // used to dictate which elements we can animate between.
+        autoAnimateMatcher: null,
+        // Default settings for our auto-animate transitions, can be
+        // overridden per-slide or per-element via data arguments
+        autoAnimateEasing: 'ease',
+        autoAnimateDuration: 1.0,
+        autoAnimateUnmatched: true,
+        // CSS properties that can be auto-animated. Position & scale
+        // is matched separately so there's no need to include styles
+        // like top/right/bottom/left, width/height or margin.
+        autoAnimateStyles: ['opacity', 'color', 'background-color', 'padding', 'font-size', 'line-height', 'letter-spacing', 'border-width', 'border-color', 'border-radius', 'outline', 'outline-offset'],
+        // Controls automatic progression to the next slide
+        // - 0:      Auto-sliding only happens if the data-autoslide HTML attribute
+        //           is present on the current slide or fragment
+        // - 1+:     All slides will progress automatically at the given interval
+        // - false:  No auto-sliding, even if data-autoslide is present
+        autoSlide: 0,
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+        // Use this method for navigation when auto-sliding (defaults to navigateNext)
+        autoSlideMethod: null,
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+        // Opens links in an iframe preview overlay
+        // Add `data-preview-link` and `data-preview-link="false"` to customize each link
+        // individually
+        previewLinks: false,
+        // Exposes the reveal.js API through window.postMessage
+        postMessage: true,
+        // Dispatches all reveal.js events to the parent window through postMessage
+        postMessageEvents: false,
+        // Focuses body when page changes visibility to ensure keyboard shortcuts work
+        focusBodyOnPageVisibilityChange: true,
+        // Transition style
+        transition: 'none', // none/fade/slide/convex/concave/zoom
+        // Transition speed
+        transitionSpeed: 'default', // default/fast/slow
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'none', // none/fade/slide/convex/concave/zoom
+        // The maximum number of pages a single slide can expand onto when printing
+        // to PDF, unlimited by default
+        pdfMaxPagesPerSlide: Number.POSITIVE_INFINITY,
+        // Prints each fragment on a separate slide
+        pdfSeparateFragments: true,
+        // Offset used to reduce the height of content within exported PDF pages.
+        // This exists to account for environment differences based on how you
+        // print to PDF. CLI printing options, like phantomjs and wkpdf, can end
+        // on precisely the total height of the document whereas in-browser
+        // printing has to end one pixel before.
+        pdfPageHeightOffset: -1,
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+        // The display mode that will be used to show slides
+        display: 'block',
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000
+      });
+      // Override SPACE to play / pause the video
+      Reveal.addKeyBinding(
+        {
+          keyCode: 32,
+          key: 'SPACE',
+          description: 'Play / pause video'
+        },
+        () => {
+          var currentVideos = Reveal.getCurrentSlide().slideBackgroundContentElement.getElementsByTagName("video");
+          if (currentVideos.length > 0) {
+            if (currentVideos[0].paused == true) currentVideos[0].play();
+            else currentVideos[0].pause();
+          } else {
+            Reveal.next();
+          }
+        }
+      );
+    </script>
+  </body>
+</html>
